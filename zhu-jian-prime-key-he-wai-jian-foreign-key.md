@@ -46,3 +46,7 @@ ALTER TABLE Orders
 ADD CONSTRAINT `FK_PersonOrder` FOREIGN KEY (PersonID) REFERENCES Persons(PersonID);
 ```
 
+不建议使用外键在数据库层面， 一切外键必须在应用层面解决。（java 去写）
+
+**每次delete或者update都必须考虑外键约束，导致开发和测试极为不方便。**
+

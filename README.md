@@ -1,4 +1,4 @@
 # 安装
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%287%29.png)
 
