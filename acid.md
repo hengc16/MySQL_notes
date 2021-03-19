@@ -36,7 +36,7 @@
  **Serialization**：事务串行化执行，隔离级别最高，牺牲了系统的并发性。可以解决并发事务的所有问题。  
  通常，在工程实践中，为了性能的考虑会对隔离性进行折中。
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 4. 持久性（Durability）
 
