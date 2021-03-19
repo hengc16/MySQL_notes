@@ -4,6 +4,7 @@
 * [主键\(prime key\)和外键\(foreign key\)](zhu-jian-prime-key-he-wai-jian-foreign-key.md)
 * [语法](yu-fa/README.md)
   * [insert](yu-fa/insert.md)
+  * [UPDATE](yu-fa/update.md)
 * [索引\(index\)](untitled.md)
 * [join](join.md)
 * [事务\(transaction\)ACID](acid.md)
