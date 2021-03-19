@@ -9,6 +9,7 @@
 * [DQL（查询语言）](dql/README.md)
   * [SELECT](dql/select.md)
   * [distinct](dql/distinct.md)
+  * [模糊查询](dql/mo-hu-cha-xun.md)
 * [索引\(index\)](untitled.md)
 * [join](join.md)
 * [事务\(transaction\)ACID](acid.md)
