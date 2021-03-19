@@ -8,6 +8,7 @@
   * [delete](yu-fa/delete.md)
 * [DQL（查询语言）](dql/README.md)
   * [SELECT](dql/select.md)
+  * [distinct](dql/distinct.md)
 * [索引\(index\)](untitled.md)
 * [join](join.md)
 * [事务\(transaction\)ACID](acid.md)
