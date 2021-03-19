@@ -5,6 +5,8 @@
 * [语法](yu-fa/README.md)
   * [insert](yu-fa/insert.md)
   * [UPDATE](yu-fa/update.md)
+  * [delete](yu-fa/delete.md)
+* [DQL](dql.md)
 * [索引\(index\)](untitled.md)
 * [join](join.md)
 * [事务\(transaction\)ACID](acid.md)
