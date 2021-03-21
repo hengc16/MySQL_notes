@@ -19,5 +19,6 @@
 * [relational database & non-relational](relational-database-and-non-relational.md)
 * [JDBC](jdbc/README.md)
   * [jdbc对象](jdbc/jdbc-dui-xiang.md)
+  * [SQL注入](jdbc/sql-zhu-ru.md)
   * [CRUD](jdbc/crud.md)
 
