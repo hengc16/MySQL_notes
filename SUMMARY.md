@@ -7,6 +7,7 @@
   * [UPDATE](yu-fa/update.md)
   * [delete](yu-fa/delete.md)
 * [DQL（查询语言）](dql/README.md)
+  * [聚合函数Aggregate function](dql/ju-he-han-shu-aggregate-function.md)
   * [SELECT](dql/select.md)
   * [distinct](dql/distinct.md)
   * [模糊查询](dql/mo-hu-cha-xun.md)
