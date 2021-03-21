@@ -21,4 +21,7 @@
   * [jdbc对象](jdbc/jdbc-dui-xiang.md)
   * [SQL注入](jdbc/sql-zhu-ru.md)
   * [CRUD](jdbc/crud.md)
+  * [ide 链接](jdbc/ide-lian-jie.md)
+  * [ide 事务](jdbc/ide-shi-wu.md)
+  * [数据库连接池Connection pool](jdbc/shu-ju-ku-lian-jie-chi-connection-pool.md)
 
