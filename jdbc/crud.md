@@ -1,5 +1,9 @@
 # CRUD
 
+### 注意：
+
+* prepareStatement 可以防止sql injection attack
+
 ### create:
 
 ```java
@@ -92,17 +96,17 @@ public static void main(String[] args){
         String sql = "select * from users where id = ?";
         //预先编译sql，不执行。
         st = connection.prepareStatement(sql);
-        st.setInt(1,4) //下表为1， 赋值4.
-        st.setString(2, "zhangsan");
-        st.setDate(3, new java.sql.Date(new Date().getTime()));
+        st.setInt(1,1) //获取所有id为1 的user
+
         //执行
-        st.excuteUpdate();
+        st.excuteQuery();
     }
     catch(SQLException e){
         e.printStackTrace();
     }finally{
         connection.close();
         st.close();
+        rs.close();
     }
     
 }
