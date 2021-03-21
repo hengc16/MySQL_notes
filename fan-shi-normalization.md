@@ -1,6 +1,6 @@
 # 范式\(normalization）
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 ### 第一范式：
 
@@ -20,5 +20,5 @@
 
 
 
-![](.gitbook/assets/image%20%2831%29.png)
+![](.gitbook/assets/image%20%2832%29.png)
 
