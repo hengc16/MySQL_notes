@@ -17,4 +17,5 @@
 * [视图view](shi-tu-view.md)
 * [范式\(normalization）](fan-shi-normalization.md)
 * [relational database & non-relational](relational-database-and-non-relational.md)
+* [JDBC](jdbc.md)
 
